@@ -4,7 +4,7 @@ Created boiler plate for server side web application in hapi.js to ollow MVC pat
 
 ## Project SetUp
 
-1. first clone the project using `git clone git@github.com:pralhad88/hapi.js-boilerplate.git` then change directory using `cd hapi.js-boilerplate`.
+1. first clone the project using `git clone git@github.com:sanjay2000/hapi.js-boilerplate.git` then change directory using `cd hapi.js-boilerplate`.
 2. install all dependencies running `npm install`.
 3. rename project name with your own project name.
 
