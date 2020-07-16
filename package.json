@@ -13,7 +13,7 @@
     "test": "lab -a code -I '__core-js_shared__' -L",
     "lint": "eslint lib --fix"
   },
-  "author": "Pralhad",
+  "author": "Sanjay",
   "license": "ISC",
   "dependencies": {
     "@hapi/bell": "^11.1.0",
